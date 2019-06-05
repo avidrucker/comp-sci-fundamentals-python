@@ -1,0 +1,27 @@
+Today we will be trying out an "online IDE" called "REPL.IT", please go to repl.it to create a free account
+
+vocab:
+- IDE stands for Integrated Development Environment
+
+
+- mark everyone in as on time today
+
+give students self-learning resources
+- https://www.w3schools.com/python/default.asp
+- https://www.sololearn.com/Course/Python/
+- https://www.hackerrank.com/domains/python
+
+Class research:
+- Could one use an SDK (software development kit) &/or frame-work &/or Python to make a small program that doesn't take long to make?
+   - Probably, yes. Creativity is key here for coming up with an idea that is small enough but not too boring or hard to do.
+- What is the quickest way to publish an app to my phone using only Python? Or, if it make it way easier/faster, which one library or frame-work?
+- 
+
+- todo: share Avi's boolean app
+
+Thursday's todos:
+- 
+
+- check in with Mary concerning software testing class
+
+- demo of Anki
